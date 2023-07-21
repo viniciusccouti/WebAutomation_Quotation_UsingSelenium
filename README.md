@@ -14,3 +14,11 @@ For that we will create a web automation
 
 - we will use selenium
 - Do not forget to download the webdriver
+
+- #### Step by step
+- Step 1 - open the browser
+- Step 2 - import data base
+- Step 3 - for each commodity in data base:
+    - Step 4 - search commodity price
+    - Step 5 - update prices in data base
+- Step 6 - choose which commodities to buy
